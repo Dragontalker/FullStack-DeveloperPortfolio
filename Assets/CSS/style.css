@@ -94,7 +94,7 @@ body {
     }
   } */
   
-@media (min-width:992px) {
+/* @media (min-width:992px) {
 .container {
     width: calc(((100% - 970px) / 2) + 970px) !important;
     margin-right: auto;
@@ -108,7 +108,7 @@ body {
     margin-right: auto;
     margin-left: auto;
 }
-}
+} */
 
 .button {
     margin: 5px auto;
