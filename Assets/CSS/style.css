@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat&family=Poppins&display=swap');
 
-body {
+/* body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     overflow-x: hidden;
     font-family: 'Lato', sans-serif;
-}
+} */
 
 .navbar {
     text-transform: uppercase;
@@ -83,5 +83,4 @@ body {
 
 #about {
     margin: 5px auto;
-    border:
 }
