@@ -50,3 +50,12 @@ body {
     color:  #1ebba3;
     font-family: 'Montserrat', sans-serif;
 }
+
+.heading-content p {
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: lighter;
+    color: rgb(78, 78, 78);
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
