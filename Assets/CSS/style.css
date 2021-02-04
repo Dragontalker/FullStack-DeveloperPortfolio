@@ -109,3 +109,28 @@ body {
     margin-left: auto;
 }
 }
+
+.button {
+    margin: 5px auto;
+}
+
+#portfolio .button {
+    border: 2px solid transparent;
+    width: 40%;
+    padding: 15px 22px;
+    background: #000;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#portfolio .button a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#portfolio .button:hover{
+    border: 2px solid #1ebba3;
+}
