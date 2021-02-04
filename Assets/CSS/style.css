@@ -29,7 +29,7 @@ body {
 
 .heading-content {
     position: absolute;
-    top: 40%;
+    top: 10%;
     width: 100%;
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 .heading-content h1 {
-    font-size: 5em;
+    font-size: 4em;
     font-weight: bolder;
     color:  #1ebba3;
     font-family: 'Montserrat', sans-serif;
