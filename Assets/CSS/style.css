@@ -29,12 +29,12 @@ body {
 
 .heading-content {
     position: absolute;
-    top: 25%;
+    top: 15%;
     width: 100%;
 }
 
 .heading-content h5 {
-    font-size: 3em;
+    font-size: 4em;
     font-weight: 300;
     color:  #1ebba3;
     font-family: monospace;
@@ -42,4 +42,11 @@ body {
 
 .avatar {
     border-radius: 50%;
+}
+
+.heading-content h1 {
+    font-size: 5em;
+    font-weight: bolder;
+    color:  #1ebba3;
+    font-family: 'Montserrat', sans-serif;
 }
