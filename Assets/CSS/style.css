@@ -56,15 +56,6 @@ body {
     letter-spacing: 2px;
 }
 
-hr {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    border: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    width: 50%;
-    margin: 5px auto;
-}
-
 #about .btn {
     border: 2px solid transparent;
     width: 40%;
@@ -83,6 +74,13 @@ hr {
 }
 
 #about .btn:hover{
-    border: 2px solid #lebba3;
+    border: 2px solid #1ebba3;
 }
 
+#about .btn a:hover {
+    color: #1ebba3;
+}
+
+#about {
+    margin: 5px auto;
+}
