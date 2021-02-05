@@ -20,7 +20,7 @@ https://dragontalker.github.io/FullStack-DeveloperPortfolio/
 ## Screenshot
 
 
-![work day scheduler screenshot](./Assets/Images/screenshot.png)
+![portfilio screenshot](./Assets/Image/screenshot.png)
 
 ## Overview
 
