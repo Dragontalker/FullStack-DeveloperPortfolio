@@ -56,6 +56,14 @@ body {
     letter-spacing: 2px;
 }
 
+#about h2 {
+    color: #1ebba3;
+}
+
+#about p {
+    font-size: 2rem;
+}
+
 #about .btn {
     border: 2px solid transparent;
     width: 40%;
@@ -84,30 +92,6 @@ body {
 #about {
     margin: 5px auto;
     width: 100%;
-}
-
-/* @media (min-width:768px) {
-    .container {
-      width: calc(((100% - 750px) / 2) + 750px) !important;
-      margin-right: auto;
-      margin-left: auto;
-    }
-  } */
-  
-@media (min-width:992px) {
-.container {
-    width: calc(((100% - 970px) / 2) + 970px) !important;
-    margin-right: auto;
-    margin-left: auto;
-}
-}
-
-@media (min-width:1200px) {
-.container {
-    width: calc(((100% - 1170px) / 2) + 1170px) !important;
-    margin-right: auto;
-    margin-left: auto;
-}
 }
 
 .btn {
